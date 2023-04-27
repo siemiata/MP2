@@ -1,5 +1,12 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("test");
+
+
     }
 }
+
+//asocjacja "zwykła" --> Car posiada pole Mechanic, a Mechanic nie posiada pla Car dlatego jeden do jeden
+// asocjacja z atrybutem
+// - || - kwalifikowana
+// - || - kompozycja
+
